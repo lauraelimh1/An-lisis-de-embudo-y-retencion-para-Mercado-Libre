@@ -21,14 +21,15 @@ Retención: ¿Qué tan efectiva es la plataforma para mantener activos a los usu
 * Cálculo de variaciones porcentuales y simulación de escenarios de mejora.
   
 ## Hallazgos Principales
-* **Análisis del Embudo (Funnel)**
+
+**Análisis del Embudo (Funnel)**
 * El "Cuello de Botella": Se identificó que la mayor caída porcentual ocurre entre las etapas de "Select Item" y "Add to Cart", donde se pierde aproximadamente el 85.7% de los usuarios interesados. Esto sugiere fricción en la visualización del producto o dudas en la decisión de compra (precios, reseñas, costos de envío).
 
 * Desempeño por País: Uruguay destaca como el país más eficiente con una tasa de conversión a compra del 4.55%, mientras que países como Brasil y Paraguay presentan las conversiones más bajas (menos del 1%).
 
 * Conversión General: La tasa de conversión final del ecosistema analizado se sitúa en un 1.25%.
 
-* **Análisis de Retención**
+**Análisis de Retención**
 * Ventana Crítica de 21 Días: Entre el 75% y 80% de los usuarios dejan de estar activos antes de los 21 días. Sin embargo, aquellos que superan este umbral tienen una probabilidad significativamente alta de convertirse en usuarios recurrentes hacia el día 28.
 
 * Anomalía en Cohortes: Se detectó una caída drástica en la retención de la cohorte de agosto de 2025 (apenas 0.2% en D28), lo que indica un posible problema técnico en la aplicación o una baja calidad en el tráfico captado durante ese mes específico.
