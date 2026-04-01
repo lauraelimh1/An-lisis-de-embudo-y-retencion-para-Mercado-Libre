@@ -20,7 +20,7 @@ Retención: ¿Qué tan efectiva es la plataforma para mantener activos a los usu
 * Procesamiento de resultados de queries para la generación de informes ejecutivos.
 * Cálculo de variaciones porcentuales y simulación de escenarios de mejora.
   
-##Hallazgos Principales
+## Hallazgos Principales
 * **Análisis del Embudo (Funnel)**
 * El "Cuello de Botella": Se identificó que la mayor caída porcentual ocurre entre las etapas de "Select Item" y "Add to Cart", donde se pierde aproximadamente el 85.7% de los usuarios interesados. Esto sugiere fricción en la visualización del producto o dudas en la decisión de compra (precios, reseñas, costos de envío).
 
@@ -35,7 +35,7 @@ Retención: ¿Qué tan efectiva es la plataforma para mantener activos a los usu
 
 * Líderes en Retención: México y Perú muestran los mejores indicadores de retención a largo plazo, sirviendo como modelos para implementar sus estrategias en otros mercados.
 
-##Recomendaciones Estratégicas
+## Recomendaciones Estratégicas
 * Optimización de la ficha de producto: Implementar mejoras en la etapa "Add to Cart", facilitando la visualización de información relevante (tallas, costos de envío claros) para reducir el abandono del 85%.
 
 * Estrategia de CRM Preventiva: Lanzar notificaciones personalizadas o incentivos (cupones) antes del día 21 tras el registro, para combatir la fuga masiva de usuarios en esa etapa.
